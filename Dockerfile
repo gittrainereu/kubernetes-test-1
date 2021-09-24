@@ -1,4 +1,4 @@
-# Use an official Python runtime as a parent image
+# v1.0 Use an official Python runtime as a parent image
 FROM python:slim
 
 # Set the working directory to /app
